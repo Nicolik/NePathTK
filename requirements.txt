@@ -1,0 +1,17 @@
+openslide-python
+python-javabridge==4.0.3
+paquo
+python-bioformats
+tqdm
+pandas
+opencv-python
+huggingface-hub
+segmentation-models-pytorch==0.3.3
+pytorch-lightning==1.5
+albumentations
+matplotlib
+tabulate
+ttach
+openpyxl
+seaborn
+gradio
