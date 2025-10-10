@@ -1,0 +1,10 @@
+/semseg/lightning_logs*
+/classification/logs*
+.paquo.toml
+definitions.py
+config_semseg.py
+/semseg/mm/weights/
+/gui/data/
+/classification/vis/
+/classification/weights/
+/runs/
