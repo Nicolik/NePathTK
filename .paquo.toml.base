@@ -1,0 +1,2 @@
+qupath_dir="path/to/qupath/dir"
+MOCK_BACKEND=false

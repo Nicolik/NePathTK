@@ -1,0 +1,6 @@
+from detection.qupath.config_test import BaseTestConfig40
+from semseg.config import M2FConfig, M2FTTAConfig
+
+SelectedConfig = BaseTestConfig40
+SemSegConfigCMC = M2FTTAConfig  # M2FConfig
+SemSegConfigAAG = M2FTTAConfig  # M2FConfig
